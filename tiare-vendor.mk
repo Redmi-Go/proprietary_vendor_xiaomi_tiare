@@ -75,7 +75,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tiare/proprietary/vendor/firmware/aw87329_abrcv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87329_abrcv.bin \
     vendor/xiaomi/tiare/proprietary/vendor/firmware/aw87329_drcv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87329_drcv.bin \
     vendor/xiaomi/tiare/proprietary/vendor/firmware/aw87329_kspk.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw87329_kspk.bin \
-    vendor/xiaomi/tiare/proprietary/vendor/lib/libMiWatermark.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMiWatermark.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libactuator_dw9763_gc8034_sunny.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763_gc8034_sunny.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libactuator_dw9763_s5k4h7_ofilm.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_dw9763_s5k4h7_ofilm.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libactuator_pseudo.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_pseudo.so \
@@ -574,7 +573,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libchromatix_s5k5e8_ofilm_tencent_riva_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_s5k5e8_ofilm_tencent_riva_zsl_video.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libflash_gpio.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_gpio.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libflash_pmic.so:$(TARGET_COPY_OUT_VENDOR)/lib/libflash_pmic.so \
-    vendor/xiaomi/tiare/proprietary/vendor/lib/libft2vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib/libft2vendor.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libjpegdhw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdhw.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libjpegdmahw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegdmahw.so \
     vendor/xiaomi/tiare/proprietary/vendor/lib/libjpegehw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libjpegehw.so \
